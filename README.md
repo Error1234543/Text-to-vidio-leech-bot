@@ -32,11 +32,11 @@
 
 ## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
 
-* `BOT_TOKEN`  - 7112692835:AAHafRzWYXfl8N_pqvif5HM9mBasYGhAqKk
+* `BOT_TOKEN`  - 8163771227:AAFCYqxXM9BNjiqMMS0S6tRLOK1A_JQugNc
 
-* `API_ID` -  25808845
+* `API_ID` -  20619533
 
-* `API_HASH` - f7382315cec4b93169335605e686aba0
+* `API_HASH` - 5893568858a096b7373c1970ba05e296
 
 * `PORT` - `8080`
 
